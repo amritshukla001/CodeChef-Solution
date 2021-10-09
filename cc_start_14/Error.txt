@@ -1,0 +1,5 @@
+gres 1
+div2 [ 2 1 ]
+gres 2
+div2 [ 2 2 3 ]
+gres 4

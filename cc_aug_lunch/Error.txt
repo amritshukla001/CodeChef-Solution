@@ -1,0 +1,4 @@
+sum 24
+sum 38
+sum 46
+sum 15

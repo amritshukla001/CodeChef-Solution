@@ -1,0 +1,65 @@
+100	100	
+100	100	
+py.first = 100 and py.second = 100
+sy.first = 0 and sy.second = 0
+psum = 0
+ssum = 0
+tarea = 0
+100	100	
+not yet
+
+1	100	100	100	100	1	1	1	
+1	1	1	100	100	1	100	100	
+py.first = 1 and py.second = 1
+sy.first = 1 and sy.second = 100
+psum = 0
+ssum = 9801
+tarea = 9801
+py.first = 1 and py.second = 100
+sy.first = 100 and sy.second = 100
+psum = 0
+ssum = 0
+tarea = 0
+py.first = 1 and py.second = 100
+sy.first = 0 and sy.second = 0
+psum = 9801
+ssum = 0
+tarea = 9801
+py.first = 1 and py.second = 100
+sy.first = 0 and sy.second = 0
+psum = 9801
+ssum = 0
+tarea = 9801
+1	1	100	1	1	100	100	100	
+not yet
+
+1	100	100	100	100	1	1	1	50	50	
+1	1	1	100	50	50	100	1	100	100	
+py.first = 1 and py.second = 1
+sy.first = 1 and sy.second = 100
+psum = 0
+ssum = 9801
+tarea = 9801
+py.first = 1 and py.second = 100
+sy.first = 1 and sy.second = 100
+psum = 0
+ssum = 4950
+tarea = 4950
+py.first = 1 and py.second = 100
+sy.first = 100 and sy.second = 100
+psum = 4851
+ssum = 0
+tarea = 4851
+py.first = 1 and py.second = 100
+sy.first = 0 and sy.second = 0
+psum = 9801
+ssum = 0
+tarea = 9801
+py.first = 1 and py.second = 100
+sy.first = 0 and sy.second = 0
+psum = 9801
+ssum = 0
+tarea = 9801
+1	1	100	1	50	50	1	100	100	100	
+not yet
+
